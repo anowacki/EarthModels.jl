@@ -36,6 +36,13 @@ Derived properties can be computed for all models:
 """
 module EarthModels
 
+__init__() = @warn("""
+    EarthModels.jl is deprecated and replaced by SeisModels.jl (https://github.com/anowacki/SeisModels.jl).
+
+    SeisModels.jl contains the same functionality as EarthModels and more.
+    EarthModels will no longer be updated.
+    """)
+
 import QuadGK: quadgk
 
 export
