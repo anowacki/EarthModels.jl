@@ -1,5 +1,13 @@
 # EarthModels.jl
 
+# **Deprecation notice**
+
+**EarthModels.jl is wholly replaced by [SeisModels.jl](https://github.com/anowacki/SeisModels.jl).**
+
+EarthModels.jl will continue to work, but will not be updated in the future.
+
+## Previous README file
+
 [![Build Status](https://travis-ci.org/anowacki/EarthModels.jl.svg?branch=master)](https://travis-ci.org/anowacki/EarthModels.jl)
 [![Build status](https://ci.appveyor.com/api/projects/status/x74sjgeor8segcmc?svg=true)](https://ci.appveyor.com/project/AndyNowacki/earthmodels-jl)
 [![Coverage Status](https://coveralls.io/repos/github/anowacki/EarthModels.jl/badge.svg?branch=master)](https://coveralls.io/github/anowacki/EarthModels.jl?branch=master)
